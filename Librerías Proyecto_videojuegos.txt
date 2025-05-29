@@ -1,0 +1,8 @@
+Librerías
+
+# Importa pandas para el manejo de los DataFrame
+import pandas as pd
+# Importa numpy para
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import stats as st
